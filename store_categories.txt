@@ -1,0 +1,206 @@
+Stores
+- Accessories store
+- Bookstore
+- Boutique
+- Candy Store
+- Clothing Store
+- Cosmetics Shop
+- Discount Store
+- Electronics Store
+- Flower Shop
+- Furniture / Home Store
+- Garden Center
+- Gift Shop
+- Gourmet Shop
+- Health & Beauty Service
+- Hardware Store
+- Convenience Store
+- Construction & Landscaping
+- Hobby Shop
+- Home Service
+- Kids Store
+- Big Box Store
+- Department Store
+- Dry Cleaner
+- Liquor Store
+- Marijuana Dispensary
+- Men's Store
+- Mobile Phone Shop
+- Arts & Crafts Store
+- Music Store
+- Optical Shop
+- Other Repaid Shop
+- Paper / Office Supplies Store
+- Pet Store
+- Shipping Store
+- Sporting Goods Shop
+- Supplement Shop
+- Thrift / Vintage Store
+- Toy / Game Store
+- Video Game Store
+- Video Store
+- Wine Shop
+- Women's Store
+
+Offices
+- Insurance Office
+- Lawyer
+- Bank 
+ 
+Transportation
+- Airport
+- Boat or Ferry
+- Bus Station
+- Gas Station
+- Harbor / Marina
+- Light Rail Station
+- Train Station
+
+Indoor Entertainment
+- Arcade
+- Concert Hall
+- Historic Museum
+- Indie Movie Theater
+- Indie Theater
+- Movie Theater
+- Art Gallery
+- Art Museum
+- Museum
+- Music Venue
+- Nightclub
+- Performing Arts Venue
+- Rock Club
+- Smoke Shop
+- Theater
+
+Health
+- Massage Studio
+- Pharmacy
+- Spa
+
+Outdoor Entertainment
+- Beach 
+- Bike Trail
+- Dog Run
+- Farm
+- Garden
+- Golf Course
+- Historic Site
+- Lake
+- Other Great Outdoors
+- Park
+- Playground
+- Plaza
+- Pool
+- Scenic Lookout
+- Track
+- Trail
+
+Sports related venues
+- Athletics and Sports
+- Baseball Field
+- Basketball Court
+- Dance Studio
+- Gym
+- Gym / Fitness Center
+- Marial Arts Studio
+- Soccer Field
+- Tennis Court
+- Yoga Studio
+
+Restaurants
+- American Restaurant
+- Asian Restaurant
+- BBQ Joint
+- Burger Joint
+- Cajun / Creole Restaurant
+- Caribbean Restaurant
+- Cuban Restaurant
+- Deli / Bodega
+- Diner
+- Fast Food Restaurant
+- Filipino Restaurant
+- Food Court
+- Food Truck
+- French Restaurant
+- Fried Chicken Joint
+- Greek Restaurant
+- Hotdog Joint
+- Indian Restaurant
+- Italian Restaurant
+- Japanese Restaurant
+- Korean Restaurant
+- Latin American Restaurant
+- Mediterranean Restaurant
+- Mexican Restaurant
+- Middle Eastern Restaurant
+- New American Restaurant
+- Noodle House
+- Pizza Place
+- Poke Place
+- Ramen Restaurant
+- Restaurant
+- Salad Place
+- Sandwich Place
+- Seafood Restaurant
+- South American Restaurant
+- Southern / Soul Food Restaurant
+- Steakhouse
+- Sushi Restaurant
+- Taco Place
+- Thai Restaurant
+- Vietnamese Restaurant
+- Wings Joint
+
+Bars / Brewery
+- Bar
+- Brewery
+- Cocktail Bar
+- Dive Bar
+- Gastropub
+- Hookah Bar
+- Hotel Bar
+- Pub
+- Speakeasy
+- Sports Bar
+- Wine Bar
+
+Automotive
+- Auto Garage
+- Automotive Shop
+
+Cafe / Bakery / Dessert
+- Bagel Shop
+- Bakery
+- Breakfast Spot
+- Bubble Tea Shop
+- Café
+- Coffee Shop
+- Dessert Shop
+- Donut Shop
+- Frozen Yogurt Shop
+- Ice Cream Shop
+- Juice Bar
+- Snack Place
+- Tea Room
+
+Food / Groceries
+- Farmers Market
+- Food
+- Food & Drink Shop
+- Grocery Store
+- Market
+- Supermarket
+
+High School
+ATM
+Currency Exchange
+Flea Market
+Hotel
+Intersection
+Rental Car Location
+Salon / Barbershop
+Shopping Mall
+Storage Facility
+Waste Facility
+Vegetarian / Vegan Restaurant
